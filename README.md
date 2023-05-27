@@ -8,18 +8,12 @@ This game was created with help of ChatGPT, an assistant developed by OpenAI.
 1. In terminal import repository
 2. Change directory to 
 
-<code>
-cd rock_paper_scissors_game
-</code>
+<code>cd rock_paper_scissors_game</code>
 
 3. Install library:
 
-<code>
-pip install pygame
-</code>
+<code>pip install pygame</code>
 
 3. Run command:
 
-<code>
-python .\rps_game.py
-</code>
+<code>python .\rps_game.py</code>
